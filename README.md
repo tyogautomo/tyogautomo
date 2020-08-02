@@ -1,6 +1,7 @@
 ![Banner](https://i.ibb.co/sK92xKY/github-Banner-2.png)
 
-### Hi there 👋
+## Hi there, I'm Yoga 👋
+I do a lot of arts stuff, starting from the traditional arts like hand drawings, paintings.. and digital arts such as vector arts and even 3D modeling.. until one day another cool stuff comes into my life. Programming. That thing has been changing my whole life career and making a new point of view of arts for me. Everything i did in the past several years ago now can be more make sense. Yup, everything now can be programmed through code.
 
 <!--
 **tyogautomo/tyogautomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
