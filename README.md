@@ -7,7 +7,17 @@ I do a lot of arts stuff before, starting from the traditional arts like hand dr
 ### TL;DR This is my life in a nut shell..
 - 💻 I’m currently working on React Native projects (in a startup company)
 - 🚀 I’m currently learning React JS, React Native, Flutter, and Game Development (C#, Blender, and Unity 3D)
-
+- 💼 I'm currently looking for a job: Web Developer (React JS)
+- 🎮 In order to relaxing my brain, i play games with my friends, or just watch some movies
+- ⚡ Fun fact:
+  - I graduated as a Civil Engineer 👷.
+  - I acquainted with programming in my 25 👨‍💻 (which is too old for me, but it was never too late :D)
+  
+### Find me on social media..
+- [Instagram](http://instagram.com/tyogautomo)
+- [Artstation](https://www.artstation.com/tyogautomo)
+- [Linkedin](https://www.linkedin.com/in/tyogautomo/)
+- [ShareMyGame](https://sharemygame.com/@tyogautomo)
 <!--
 **tyogautomo/tyogautomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
