@@ -6,7 +6,7 @@ I do a lot of arts stuff before, starting from the traditional arts like hand dr
 <br>
 ### TL;DR This is my life in a nut shell..
 - 💻 I’m currently working on React Native projects (in a startup company)
-- 🚀 I’m currently learning React JS, React Native, Flutter, and Game Development (C#, Blender, and Unity 3D)
+- 🚀 I’m currently learning React JS, React Native, and Game Development (C#, Blender, and Unity 3D)
 - 💼 I'm currently looking for a job: Web Developer (React JS)
 - 🎮 In order to relaxing my brain, i play games with my friends, or just watch some movies
 - ⚡ Fun fact:
