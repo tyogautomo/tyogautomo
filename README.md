@@ -13,7 +13,7 @@ I do a lot of arts stuff before, starting from the traditional arts like hand dr
   - I graduated as a Civil Engineer 👷.
   - I acquainted with programming in my 25 👨‍💻 (which is too old for me, but it was never too late :D)
   
-### Find me on social media..
+### Find me on social media and other Portfolio..
 - [Instagram](http://instagram.com/tyogautomo)
 - [Artstation](https://www.artstation.com/tyogautomo)
 - [Linkedin](https://www.linkedin.com/in/tyogautomo/)
