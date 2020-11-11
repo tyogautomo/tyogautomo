@@ -10,7 +10,7 @@ I do a lot of arts stuff before, starting from the traditional arts like hand dr
 - 🎮 In order to relaxing my brain, i play games with my friends, or just watch some movies
 - ⚡ Fun fact:
   - I graduated as a Civil Engineer 👷.
-  - I acquainted with programming in my 25 👨‍💻 (which is too old for me, but it was never too late :D)
+  - I acquainted with programming in my 25 👨‍💻 (it was never too late to learn everything :D)
   
 ### Find me on social media and other Portfolio..
 - [Instagram](http://instagram.com/tyogautomo)
