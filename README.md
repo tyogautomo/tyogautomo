@@ -7,11 +7,10 @@ I do a lot of arts stuff before, from traditional arts until the digital one. On
 - 🌐 Here's my personal Website: [yogautomo.com](https://yogautomo.com)
 - 💻 I’m currently working on React Native projects (in a startup company)
 - 🚀 I’m currently learning React JS, React Native, and Game Development (C#, Blender, and Unity 3D)
-- 💼 I'm currently looking for a job: Web Developer (React JS)
-- 🎮 I play games a lot
+- 🎮 I play games a lot, check out my website to meet me in Steam :D
 - ⚡ Fun fact:
   - I graduated as a Civil Engineer 👷.
-  - I acquainted with programming in my 25 👨‍💻 (it was never too late to learn everything :D)
+  - I acquainted with programming in my 25 👨‍💻 (it was never too late to learn everything right? :D)
   
 ### Find me on social media and other Portfolio..
 - [Instagram](http://instagram.com/tyogautomo)
