@@ -15,7 +15,7 @@ I do a lot of arts stuff before, but one day a cool stuff came into my life => P
 
 <span><b>[Linkedin](https://www.linkedin.com/in/tyogautomo/)</b> | </span>
 <span><b>[Instagram](http://instagram.com/tyogautomo)</b> | </span>
-<span><b>[Steam](https://sharemygame.com/@tyogautomo)</b> | </span>
+<span><b>[Steam](https://steamcommunity.com/id/tyogautomo/)</b> | </span>
 <span><b>[Artstation](https://www.artstation.com/tyogautomo)</b> | </span>
 <span><b>[ShareMyGame](https://sharemygame.com/@tyogautomo)</b></span>
 <!--
