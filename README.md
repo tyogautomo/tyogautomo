@@ -1,4 +1,4 @@
-![Banner](https://i.ibb.co/sK92xKY/github-Banner-2.png)
+![Banner](https://i.ibb.co/Nr8yYjM/github-Banner2-01.png)
 
 ## Hi there, I'm Yoga 👋
 I do a lot of arts stuff before, from traditional arts until the digital one. One day a cool stuff came into my life => Programming. That thing has been changing my whole life career and makes a new point of view for me. Not only into Frontend, I also learning Backend to keep up with another technologies and building a complete Web / Mobile Apps.
