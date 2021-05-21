@@ -7,16 +7,17 @@ I do a lot of arts stuff before, from traditional arts until the digital one. On
 - 🌐 Here's my personal Website: [yogautomo.com](https://yogautomo.com)
 - 💻 I’m currently working on React Native projects (in a startup company)
 - 🚀 I’m currently learning React JS, React Native, and Game Development (C#, Blender, and Unity 3D)
-- 🎮 Wanna play games together? check out my website to find me on Steam :D
 - ⚡ Fun fact:
   - I graduated as a Civil Engineer 👷.
   - I acquainted with programming in my 25 👨‍💻 (it was never too late to learn everything right? :D)
   
 ### Find me on social media and other Portfolio..
-- [Instagram](http://instagram.com/tyogautomo)
-- [Artstation](https://www.artstation.com/tyogautomo)
-- [Linkedin](https://www.linkedin.com/in/tyogautomo/)
-- [ShareMyGame](https://sharemygame.com/@tyogautomo)
+
+<span>[Linkedin](https://www.linkedin.com/in/tyogautomo/) | </span>
+<span>[Instagram](http://instagram.com/tyogautomo) | </span>
+<span>[Steam](https://sharemygame.com/@tyogautomo) | </span>
+<span>[Artstation](https://www.artstation.com/tyogautomo) | </span>
+<span>[ShareMyGame](https://sharemygame.com/@tyogautomo)</span>
 <!--
 **tyogautomo/tyogautomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
