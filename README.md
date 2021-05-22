@@ -18,12 +18,12 @@ I do a lot of arts stuff before, but one day a cool stuff came into my life => P
 <span><b>[ShareMyGame](https://sharemygame.com/@tyogautomo)</b> • </span>
 <span><b>[Website](https://yogautomo.com)</b></span>
 
-![](https://img.shields.io/badge/Lib-React-informational?style=flat&logo=react&logoColor=white&color=5FD9FB)
-![](https://img.shields.io/badge/Lib-ReactNative-informational?style=flat&logo=react&logoColor=white&color=5FD9FB)
-![](https://img.shields.io/badge/Lang-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=27609E)
-![](https://img.shields.io/badge/Framework-Express-informational?style=flat&logo=express&logoColor=white&color=FCDC00)
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=73AA63)
-![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=336791)
+![](https://img.shields.io/badge/Lib-React-informational?style=plastic&logo=react&logoColor=white&color=5FD9FB)
+![](https://img.shields.io/badge/Lib-ReactNative-informational?style=plastic&logo=react&logoColor=white&color=5FD9FB)
+![](https://img.shields.io/badge/Lang-Typescript-informational?style=plastic&logo=typescript&logoColor=white&color=27609E)
+![](https://img.shields.io/badge/Framework-Express-informational?style=plastic&logo=express&logoColor=white&color=FCDC00)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=plastic&logo=mongodb&logoColor=white&color=73AA63)
+![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=plastic&logo=postgresql&logoColor=white&color=336791)
 
 <!--
 **tyogautomo/tyogautomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
