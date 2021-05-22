@@ -3,7 +3,7 @@
 ## Hi there, I'm Yoga 👋
 I do a lot of arts stuff before, but one day a cool stuff came into my life => Programming. That thing has been changing my whole life career and makes a new point of view for me. Not only into Frontend, I also learning Backend to keep up with another technologies to build a complete Web / Mobile Apps.
 <br>
-### TL;DR This is my life in a nut shell..
+### TL;DR My life in a nut shell...
 - 🌐 My Personal Website: [www.yogautomo.com](https://yogautomo.com)
 - 💻 Currently working on React Native projects (in a startup company)
 - 🚀 Currently learning React JS, React Native, and Game Development (C#, Blender, and Unity 3D)
