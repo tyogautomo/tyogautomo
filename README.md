@@ -17,6 +17,7 @@ I do a lot of arts stuff before, but one day a cool stuff came into my life => P
 <span><b>[Artstation](https://www.artstation.com/tyogautomo)</b> • </span>
 <span><b>[ShareMyGame](https://sharemygame.com/@tyogautomo)</b> • </span>
 <span><b>[Website](https://yogautomo.com)</b></span>
+<hr/>
 
 ![](https://img.shields.io/badge/Lib-React-informational?style=plastic&logo=react&logoColor=white&color=5FD9FB)
 ![](https://img.shields.io/badge/Lib-ReactNative-informational?style=plastic&logo=react&logoColor=white&color=5FD9FB)
