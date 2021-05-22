@@ -20,10 +20,9 @@ I do a lot of arts stuff before, but one day a cool stuff came into my life => P
 
 ![](https://img.shields.io/badge/Lib-React-informational?style=flat&logo=react&logoColor=white&color=5FD9FB)
 ![](https://img.shields.io/badge/Lib-ReactNative-informational?style=flat&logo=react&logoColor=white&color=5FD9FB)
-![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=CF649A)
-![](https://img.shields.io/badge/Lib-Redux-informational?style=flat&logo=Redux&logoColor=white&color=761dad)
-![](https://img.shields.io/badge/Framework-NodeJS-informational?style=flat&logo=JavaScript&logoColor=white&color=73AA63)
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=73AA63)
+![](https://img.shields.io/badge/Lang-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=27609E)
+![](https://img.shields.io/badge/Framework-Express-informational?style=flat&logo=express&logoColor=white&color=FCDC00)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=73AA63)
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=336791)
 
 <!--
