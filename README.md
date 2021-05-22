@@ -4,7 +4,6 @@
 I do a lot of arts stuff before, but one day a cool stuff came into my life => Programming. That thing has been changing my whole life career and makes a new point of view for me. Not only into Frontend, I also learning Backend to keep up with another technologies to build a complete Web / Mobile Apps.
 <br>
 ### TL;DR My life in a nut shell...
-- 🌐 My Personal Website: [www.yogautomo.com](https://yogautomo.com)
 - 💻 Currently working on React Native projects (in a startup company)
 - 🚀 Currently learning React JS, React Native, and Game Development (C#, Blender, and Unity 3D)
 - ⚡ Fun fact:
@@ -18,6 +17,7 @@ I do a lot of arts stuff before, but one day a cool stuff came into my life => P
 <span><b>[Steam](https://steamcommunity.com/id/tyogautomo/)</b> | </span>
 <span><b>[Artstation](https://www.artstation.com/tyogautomo)</b> | </span>
 <span><b>[ShareMyGame](https://sharemygame.com/@tyogautomo)</b></span>
+<span><b>[Website](https://yogautomo.com)</b></span>
 <!--
 **tyogautomo/tyogautomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
