@@ -1,7 +1,7 @@
 ![Banner](https://i.ibb.co/Nr8yYjM/github-Banner2-01.png)
 
 ## Hi there, I'm Yoga 👋
-I do a lot of arts stuff before, but one day a cool stuff came into my life => Programming. That thing has been changing my whole life career into a Programmer / Developer. Not only into Frontend, I also learning Backend to keep up with another technologies to build a complete Web / Mobile Apps.
+I do a lot of arts stuff before, but one day a cool stuff came into my life => Programming. It changes my whole life career into a Programmer / Developer. Not only into Frontend, I also learning Backend to keep up with another technologies to build a complete Web / Mobile Apps.
 <br>
 ### TL;DR My life in a nut shell...
 - 💻 Currently working on React Native projects (in a startup company)
