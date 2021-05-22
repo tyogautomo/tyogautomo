@@ -11,13 +11,20 @@ I do a lot of arts stuff before, but one day a cool stuff came into my life => P
   - I acquainted with programming in my 25 👨‍💻 (it was never too late to learn everything right? :D)
   
 ### Find me on social media and other Portfolio..
-
-<span><b>[Linkedin](https://www.linkedin.com/in/tyogautomo/)</b> | </span>
-<span><b>[Instagram](http://instagram.com/tyogautomo)</b> | </span>
-<span><b>[Steam](https://steamcommunity.com/id/tyogautomo/)</b> | </span>
-<span><b>[Artstation](https://www.artstation.com/tyogautomo)</b> | </span>
-<span><b>[ShareMyGame](https://sharemygame.com/@tyogautomo)</b> | </span>
+<span><b>[Linkedin](https://www.linkedin.com/in/tyogautomo/)</b> • </span>
+<span><b>[Instagram](http://instagram.com/tyogautomo)</b> • </span>
+<span><b>[Steam](https://steamcommunity.com/id/tyogautomo/)</b> • </span>
+<span><b>[Artstation](https://www.artstation.com/tyogautomo)</b> • </span>
+<span><b>[ShareMyGame](https://sharemygame.com/@tyogautomo)</b> • </span>
 <span><b>[Website](https://yogautomo.com)</b></span>
+
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=5FD9FB)
+![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=react&logoColor=white&color=5FD9FB)
+![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=CF649A)
+![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=761dad)
+![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=JavaScript&logoColor=white&color=73AA63)
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=73AA63)
+
 <!--
 **tyogautomo/tyogautomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
