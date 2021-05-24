@@ -3,12 +3,10 @@
 ## Hi there, I'm Yoga 👋
 I do a lot of arts stuff before, but one day a cool stuff came into my life => Programming. It changes my whole life career into a Programmer / Developer. Not only into Frontend, I also learning Backend to keep up with another technologies to build a complete Web / Mobile Apps.
 <br>
-### TL;DR My life in a nut shell...
+### tl;dr my life in a nut shell...
 - 💻 Currently working on React Native projects (in a startup company)
 - 🚀 Currently learning React JS, React Native, and Game Development (C#, Blender, and Unity 3D)
-- ⚡ Fun fact:
-  - I graduated as a Civil Engineer 👷.
-  - I acquainted with programming in my 25 👨‍💻 (it was never too late to learn everything right? :D)
+- ⚡ Fun fact: I was graduated as a Civil Engineer 👷
   
 ### Find me on social media and other Portfolio..
 <span><b>[Linkedin](https://www.linkedin.com/in/tyogautomo/)</b> • </span>
