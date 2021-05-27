@@ -5,7 +5,7 @@ I do a lot of arts stuff before, but one day a cool stuff came into my life => P
 <br>
 ### tl;dr my life in a nut shell...
 - 💻 Currently working on React Native projects (in a startup company)
-- 🚀 Currently learning React JS, React Native, and Game Development (C#, Blender, and Unity 3D)
+- 🚀 Currently learning React JS, React Native, Typescript, and Game Development (C#, Blender, and Unity 3D)
 - ⚡ Fun fact: I was graduated as a Civil Engineer 👷
   
 ### Find me on social media and other Portfolio..
