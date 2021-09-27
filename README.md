@@ -4,7 +4,7 @@
 I do a lot of arts stuff before, but one day a cool stuff came into my life => Programming. It changes my whole life career into a Programmer / Developer. Not only into Frontend, I also learning Backend to keep up with another technologies to build a complete Web / Mobile Apps.
 <br>
 ### tl;dr my life in a nut shell...
-- 💻 Currently working on React Native projects (in a startup company)
+- 💻 Currently working on ReactJs and Graphql projects (in a startup company)
 - 🚀 Currently learning React JS, React Native, Typescript, and Game Development (C#, Blender, and Unity 3D)
 - ⚡ Fun fact: I was graduated as a Civil Engineer 👷
   
