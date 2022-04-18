@@ -14,7 +14,7 @@ I do a lot of arts stuff before, but one day a cool stuff came into my life => P
 <span><b>[Steam](https://steamcommunity.com/id/tyogautomo/)</b> • </span>
 <span><b>[Artstation](https://www.artstation.com/tyogautomo)</b> • </span>
 <span><b>[ShareMyGame](https://sharemygame.com/@tyogautomo)</b> • </span>
-<span><b>[Website](https://yogautomo.com)</b></span>
+<span><b>[Website](https://www.yogautomo.com)</b></span>
 <hr/>
 
 ![](https://img.shields.io/badge/Lib-React-informational?style=plastic&logo=react&logoColor=white&color=5FD9FB)
